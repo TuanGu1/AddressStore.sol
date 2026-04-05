@@ -10,3 +10,4 @@ contract AddressStore {
         lastSender = msg.sender;
     }
 }
+Add new feature
