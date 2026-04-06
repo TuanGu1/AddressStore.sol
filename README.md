@@ -11,3 +11,4 @@ contract AddressStore {
     }
 }
 Add new feature
+Improve error handling
